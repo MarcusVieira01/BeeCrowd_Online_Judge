@@ -5,4 +5,4 @@ Exercícios e problemas resolvidos no Uri e BeeCrowd Online Judge com as linguag
 - Java;
 - JavaScript;
 
-Possibilidade de mais linguagens no futuro 
+Possibilidade de mais linguagens no futuro
